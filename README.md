@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there !
 ![Cover](https://github.com/JackMandrake/JackMandrake/blob/main/6107-batman-logo-1920x1080-movie-wallpaper.jpeg)
 <!--
 **JackMandrake/JackMandrake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
